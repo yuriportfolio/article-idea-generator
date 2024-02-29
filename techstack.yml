@@ -2,7 +2,7 @@ repo_name: yuriportfolio/article-idea-generator
 report_id: df2d072b101a48504b5b13c6b5038414
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:07:27+00:00'
+timestamp: '2024-02-29T18:21:43+00:00'
 requested_by: yuriportfolio
 provider: github
 branch: develop
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Idris Olubisi
   last_updated_on: 2023-01-26 12:17:47.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.1.5
   open_source: true
